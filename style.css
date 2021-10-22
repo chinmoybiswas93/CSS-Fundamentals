@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+h1 {
+    font-size: 48px;
+}
+h2 {
+    font-size: 32px;
+}
+p {
+    font-size: 16px;
+}
+.main-heading {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 56px;
+    color: #104C90;
+    text-align: center;
+    margin: 56px 0 56px 0;
+}
+.textarea {
+    width: 500px;
+    background: #F1F1F1;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 34px;
+}
+.textarea h2 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 37px;
+    color: #2E7AD3;
+}
+.textarea img {
+    margin: 20px 0 20px 0;
+}
+.textarea p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 19px;
+}
+.textarea p span {
+    color: #FF8000;
+    text-decoration:underline;
+}
+.textarea button {
+    margin: 20px 0 20px 0;
+    padding: 8px 15px;
+    background-color: #2E7AD3;
+    border: none;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+
+}
+
